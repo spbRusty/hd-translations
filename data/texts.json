@@ -5,5 +5,61 @@
     "original": "texts/1 - General (Общее)/original.txt",
     "translation": "texts/1 - General (Общее)/translation.txt",
     "slug": "general"
+  },
+  {
+    "title": "2 - 64 63 61 58 38 54",
+    "author": "Ра Уру Ху",
+    "original": "texts/2 - 64 63 61 58 38 54/original.txt",
+    "translation": "texts/2 - 64 63 61 58 38 54/translation.txt",
+    "slug": "64-63-61-58-38-54"
+  },
+  {
+    "title": "3 - 54 41 39 19 53 52 60",
+    "author": "Ра Уру Ху",
+    "original": "texts/3 - 54 41 39 19 53 52 60/original.txt",
+    "translation": "texts/3 - 54 41 39 19 53 52 60/translation.txt",
+    "slug": "54-41-39-19-53-52-60"
+  },
+  {
+    "title": "4 - Sacral (Сакрал)",
+    "author": "Ра Уру Ху",
+    "original": "texts/4 - Sacral (Сакрал)/original.txt",
+    "translation": "texts/4 - Sacral (Сакрал)/translation.txt",
+    "slug": "sacral"
+  },
+  {
+    "title": "5 - 64 Material Ways - Ra Uru Hu",
+    "author": "Ра Уру Ху",
+    "original": "texts/5 - 64 Material Ways - Ra Uru Hu/original.txt",
+    "translation": "texts/5 - 64 Material Ways - Ra Uru Hu/translation.txt",
+    "slug": "64-material-ways-5"
+  },
+  {
+    "title": "6 - 64 Material Ways - Ra Uru Hu",
+    "author": "Ра Уру Ху",
+    "original": "texts/6 - 64 Material Ways - Ra Uru Hu/original.txt",
+    "translation": "texts/6 - 64 Material Ways - Ra Uru Hu/translation.txt",
+    "slug": "64-material-ways-6"
+  },
+  {
+    "title": "7 - 64 Material Ways - Ra Uru Hu",
+    "author": "Ра Уру Ху",
+    "original": "texts/7 - 64 Material Ways - Ra Uru Hu/original.txt",
+    "translation": "texts/7 - 64 Material Ways - Ra Uru Hu/translation.txt",
+    "slug": "64-material-ways-7"
+  },
+  {
+    "title": "8 - 64 Material Ways - Ra Uru Hu",
+    "author": "Ра Уру Ху",
+    "original": "texts/8 - 64 Material Ways - Ra Uru Hu/original.txt",
+    "translation": "texts/8 - 64 Material Ways - Ra Uru Hu/translation.txt",
+    "slug": "64-material-ways-8"
+  },
+  {
+    "title": "9 - 64 Material Ways - Ra Uru Hu",
+    "author": "Ра Уру Ху",
+    "original": "texts/9 - 64 Material Ways - Ra Uru Hu/original.txt",
+    "translation": "texts/9 - 64 Material Ways - Ra Uru Hu/translation.txt",
+    "slug": "64-material-ways-9"
   }
 ]
