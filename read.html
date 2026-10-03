@@ -14,15 +14,23 @@
     window.HD_ACCESS=false;
   }
   window.HD_ACCESS=false;
-  var q=new URLSearchParams(location.search).get("access");
-  var ok=false;
-  try{ok=sessionStorage.getItem("hd-access")==="1"}catch(e){}
-  if(ok){window.HD_ACCESS=true;return}
-  if(!q){block();return}
-  crypto.subtle.digest("SHA-256",new TextEncoder().encode(q)).then(function(buf){
-    if(hex(buf)===HASH){try{sessionStorage.setItem("hd-access","1")}catch(e){}window.HD_ACCESS=true}
-    else block();
-  }).catch(block);
+  window.HD_READY=(async function(){
+    var q=new URLSearchParams(location.search).get("access");
+    var ok=false;
+    try{ok=sessionStorage.getItem("hd-access")==="1"}catch(e){}
+    if(ok){window.HD_ACCESS=true;return true}
+    if(!q){block();return false}
+    try{
+      var buf=await crypto.subtle.digest("SHA-256",new TextEncoder().encode(q));
+      if(hex(buf)===HASH){
+        try{sessionStorage.setItem("hd-access","1")}catch(e){}
+        window.HD_ACCESS=true;
+        return true;
+      }
+    }catch(e){}
+    block();
+    return false;
+  })();
 })();
 </script>
 <script>
