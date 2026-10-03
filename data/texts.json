@@ -1,1 +1,9 @@
-[{"token":"demo-7f3k9m","title":"Демонстрационный текст","author":"Добавь сюда первый перевод","original":"texts/demo/original.txt","translation":"texts/demo/translation.txt"}]
+[
+  {
+    "title": "Демонстрационный текст",
+    "author": "Добавь сюда первый перевод",
+    "original": "texts/demo/original.txt",
+    "translation": "texts/demo/translation.txt",
+    "slug": "demo-7f3k9m"
+  }
+]
