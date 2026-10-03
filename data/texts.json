@@ -5,5 +5,12 @@
     "original": "texts/demo/original.txt",
     "translation": "texts/demo/translation.txt",
     "slug": "demo"
+  },
+  {
+    "title": "1 - General (Общее)",
+    "author": "Ра Уру Ху",
+    "original": "texts/1 - General (Общее)/original.txt",
+    "translation": "texts/1 - General (Общее)/translation.txt",
+    "slug": "demo"
   }
 ]
