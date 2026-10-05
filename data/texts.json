@@ -68,5 +68,12 @@
     "original": "texts/10 - Introduction (Введение)/original.txt",
     "translation": "texts/10 - Introduction (Введение)/translation.txt",
     "slug": "introduction"
+  },
+  {
+    "title": "Hexagram Cross-Reference Index",
+    "author": "",
+    "original": "texts/11 - Hexagram Cross-Reference Index (Индекс перекрёстных ссылок на гексаграммы)/original.txt",
+    "translation": "texts/11 - Hexagram Cross-Reference Index (Индекс перекрёстных ссылок на гексаграммы)/translation.txt",
+    "slug": "hexagram-cross-reference-index"
   }
 ]
