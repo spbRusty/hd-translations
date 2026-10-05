@@ -94,14 +94,19 @@ Circuits-The channels operate through six circuits. The circuits are a key to wh
 
 Sensing-The abstract circuit: 7 channels:
 64/4711/5633/1346/2942/5341/3035/36
+
 Knowing- The Individuality circuit: 9 channels
 61/2443/238/12/143/6039/5512/2238/2857/20
+
 Understanding- The logic circuit: 7 channels
 63/417/62 31n 15/5 9/5218/58 48/16
+
 Ego- The material circuit: 5 channels
 45/2140/3749/1954/3244/26
+
 Centering-The anchoring circuit: 2 channels
 51/2510/34
+
 Defense- The protection circuit: 2 channels
 50/2759/6
 
