@@ -82,5 +82,12 @@
     "original": "texts/12 - Part One: The Nine Centers (Часть первая: Девять центров)/original.txt",
     "translation": "texts/12 - Part One: The Nine Centers (Часть первая: Девять центров)/translation.txt",
     "slug": "part-one-the-nine-centers"
+  },
+  {
+    "title": "4 - Part Two: Rave Body Graph Circuitry",
+    "author": "",
+    "original": "texts/13 - Part Two: Rave Body Graph Circuitry (Часть вторая: Схемотехника Рейв-боди-графа)/original.txt",
+    "translation": "texts/13 - Part Two: Rave Body Graph Circuitry (Часть вторая: Схемотехника Рейв-боди-графа)/translation.txt",
+    "slug": "part-two-rave-body-graph-circuitry"
   }
 ]
